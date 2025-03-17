@@ -1,1 +1,1 @@
-# React-Projects
+This repo consists of all the react-apps developed by me
